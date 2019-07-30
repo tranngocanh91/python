@@ -1,0 +1,3 @@
+writing line 1 
+ writing line 2 
+ duong so 4 
