@@ -1,0 +1,1 @@
+print("Ten: anhtuoi :\n 34dia chi :\n 25/ hai phong")
