@@ -1,3 +1,4 @@
+
 def generate_vector(n=10,m=8):
     vector =[[0]*n for _ in range(m)]
     for i in range (m):
